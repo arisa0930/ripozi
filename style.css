@@ -89,7 +89,7 @@ img {
 /*NEWS------------------------------------------------
 */
 #news {
-    background-image: url(/images/contact.jpg);
+    background-image: url(/images/contact.jpg);　/*パス変更しましたby motoki*/
     height: 270px;
     margin-bottom: 40px;
 }
